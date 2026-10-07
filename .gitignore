@@ -1,0 +1,4 @@
+rv32i_iss
+trace.txt
+rtl_trace.txt
+*.o
